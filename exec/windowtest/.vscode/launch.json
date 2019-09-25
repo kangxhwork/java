@@ -6,28 +6,16 @@
     "configurations": [
         {
             "type": "java",
-            "name": "CodeLens (Launch) - App",
-            "request": "launch",
-            "mainClass": "app.App"
-        },
-        {
-            "type": "java",
-            "name": "CodeLens (Launch) - TestApp",
-            "request": "launch",
-            "mainClass": "TestApp"
-        },
-        {
-            "type": "java",
             "name": "Debug (Launch) - Current File",
             "request": "launch",
             "mainClass": "${file}"
         },
         {
             "type": "java",
-            "name": "Debug (Launch)-App<power>",
+            "name": "Debug (Launch)-App<windowtest>",
             "request": "launch",
             "mainClass": "app.App",
-            "projectName": "power"
+            "projectName": "windowtest"
         }
     ]
 }
