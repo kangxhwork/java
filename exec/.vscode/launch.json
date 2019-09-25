@@ -12,9 +12,10 @@
         },
         {
             "type": "java",
-            "name": "Debug (Launch)-hello",
+            "name": "Debug (Launch)-App<power>",
             "request": "launch",
-            "mainClass": "hello"
+            "mainClass": "app.App",
+            "projectName": "power"
         }
     ]
 }
