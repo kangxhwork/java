@@ -12,12 +12,6 @@
         },
         {
             "type": "java",
-            "name": "CodeLens (Launch) - TestApp",
-            "request": "launch",
-            "mainClass": "TestApp"
-        },
-        {
-            "type": "java",
             "name": "Debug (Launch) - Current File",
             "request": "launch",
             "mainClass": "${file}"
