@@ -28,7 +28,7 @@ public class mywindow extends JFrame{
         add(item2);
 
         item3 = new JTextField("this is a text");
-        //item3.setEditable(false);
+        item3.setEditable(false);
         add(item3);
 
         passwordField = new JPasswordField("type in your password here");
